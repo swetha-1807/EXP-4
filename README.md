@@ -42,20 +42,27 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-## CIRCUIT DIAGRAMS
+## CIRCUIT DIAGRAMS:
 
-Half wave rectifier with filter:
+Half wave rectifier with and without filter:
 
-Bridge rectifier with filter:
+![WhatsApp Image 2025-10-08 at 18 37 17_d397f6b7](https://github.com/user-attachments/assets/553e645d-6383-4f99-a8c3-fcb899460a6b)
 
-## TABULAR COLUMN
+Full wave rectifier with and without filter :
 
-Rectifier without filter
+![WhatsApp Image 2025-10-08 at 18 38 13_3870c41a](https://github.com/user-attachments/assets/4c54794f-81d6-4a8c-ab9d-208342c76e2e)
 
 
-## TABULAR COLUMN
+## TABULAR COLUMN:
 
-Rectifier with filter
+Half wave rectifier:
+
+![WhatsApp Image 2025-10-08 at 18 37 40_4462cd93](https://github.com/user-attachments/assets/70c5655e-96ff-4ce0-b912-b7fb3a908989)
+
+Full wave rectifier:
+
+![WhatsApp Image 2025-10-08 at 18 38 37_02bd3c0c](https://github.com/user-attachments/assets/f4738a07-656f-4f42-a9fe-f7ea25d554d7)
+
 
 ## WAVEFORM:
 
